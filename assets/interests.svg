@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="295" viewBox="0 0 1100 295" role="img" aria-labelledby="title desc">
+<title id="title">What I'm interested in</title>
+<desc id="desc">Build: software and developer tools, AI agents and automation, interfaces and interactive experiences, robotics and connected systems. Make it useful: product ideas and validation, prototypes people can try, better workflows and user experiences, business models and early-stage ventures.</desc>
+<rect x="1" y="1" width="1098" height="293" rx="13" fill="#111827" stroke="#374151" stroke-width="2"/>
+<rect x="548" y="22" width="2" height="250" fill="#374151"/>
+<rect x="27" y="28" width="5" height="29" rx="2" fill="#A78BFA"/>
+<rect x="574" y="28" width="5" height="29" rx="2" fill="#A78BFA"/>
+<g fill="#F9FAFB" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="27">
+<text x="46" y="52">01 / Build</text>
+<text x="594" y="52">02 / Make it useful</text>
+</g>
+<g fill="#E5E7EB" font-family="Arial,Helvetica,sans-serif" font-size="21">
+<text x="48" y="105">•  Software and developer tools</text>
+<text x="48" y="153">•  AI agents and automation</text>
+<text x="48" y="201">•  Interfaces and interactive experiences</text>
+<text x="48" y="249">•  Robotics and connected systems</text>
+<text x="596" y="105">•  Product ideas and validation</text>
+<text x="596" y="153">•  Prototypes people can actually try</text>
+<text x="596" y="201">•  Better workflows and user experiences</text>
+<text x="596" y="249">•  Business models and early-stage ventures</text>
+</g>
+</svg>
