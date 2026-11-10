@@ -20,30 +20,7 @@ Not every experiment needs to become a business. But I like knowing which ones *
 
 ## What I'm interested in
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 01 / Build
-
-- Software and developer tools
-- AI agents and automation
-- Interfaces and interactive experiences
-- Robotics and connected systems
-
-</td>
-<td width="50%" valign="top">
-
-### 02 / Make it useful
-
-- Product ideas and validation
-- Prototypes that people can actually try
-- Better workflows and user experiences
-- Business models and early-stage ventures
-
-</td>
-</tr>
-</table>
+<img src="./assets/interests.svg" alt="Two columns: Build — software and developer tools, AI agents and automation, interfaces and interactive experiences, robotics and connected systems. Make it useful — product ideas and validation, prototypes people can try, better workflows and user experiences, business models and early-stage ventures." width="100%" />
 
 I also wander into biology, hardware, and other ambitious ideas. This account is where I give myself room to experiment.
 
