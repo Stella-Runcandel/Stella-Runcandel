@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,55:172554,100:0F766E&height=180&section=header&text=Stella%20Runcandel&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Build.%20Test.%20Ship.%20Repeat.&descSize=18&descAlignY=65" alt="Stella Runcandel — Build. Test. Ship. Repeat." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130B2B,45:4C1D95,100:7C3AED&height=190&section=header&text=Stella%20Runcandel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Build.%20Test.%20Ship.%20Repeat.&descSize=18&descAlignY=60" alt="Stella Runcandel profile banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1400&color=5EEAD4&center=true&vCenter=true&width=620&height=42&lines=I+like+making+things.;Sometimes+useful.+Sometimes+ridiculous.;Software%2C+systems%2C+and+ideas.;Let's+see+if+it+works." alt="Rotating introduction: I like making things; Sometimes useful, sometimes ridiculous; Software, systems, and ideas; Let's see if it works." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1400&color=A78BFA&center=true&vCenter=true&width=620&height=42&lines=I+like+making+things.;Sometimes+useful.+Sometimes+ridiculous.;Software%2C+systems%2C+and+ideas.;Let's+see+if+it+works." alt="Animated introduction" />
 
 **Software · Experiments · Products · Ventures**
 
@@ -20,7 +20,7 @@ Not every experiment needs to become a business. But I like knowing which ones *
 
 ## What I'm interested in
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -66,24 +66,3 @@ I use this space for prototypes, tools, and early product ideas. Some will be po
 **What to expect:** software experiments, automation, creative tooling, intelligent systems, and the occasional idea that gets a little out of hand.
 
 [**Browse my repositories →**](https://github.com/Stella-Runcandel?tab=repositories)
-
-## How I approach things
-
-```text
-idea → prototype → test → rethink → improve → ship
-                  ↘ archive if it doesn't work
-```
-
-I'm more interested in making something genuinely useful than making it sound impressive. If an idea survives real testing, that's when things get interesting.
-
-## Get in touch
-
-Have a project idea, a problem worth solving, or something interesting to build?
-
-[**Start a conversation on GitHub →**](https://github.com/Stella-Runcandel)
-
----
-
-<div align="center">
-<sub>Make things. Find out what works. Keep going.</sub>
-</div>
