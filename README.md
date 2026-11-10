@@ -1,51 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120C24,50:6D28D9,100:EC4899&height=200&section=header&text=Stella%20Runcandel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%A2%20Experimenter%20%E2%80%A2%20Future%20Founder&descSize=18&descAlignY=60" alt="Stella Runcandel banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,55:172554,100:0F766E&height=180&section=header&text=Stella%20Runcandel&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Build.%20Test.%20Ship.%20Repeat.&descSize=18&descAlignY=65" alt="Stella Runcandel — Build. Test. Ship. Repeat." width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=EC4899&center=true&vCenter=true&width=650&height=48&lines=I+just+like+making+things.;Sometimes+useful.+Sometimes+ridiculous.;Build.+Break.+Learn.+Repeat.;The+more+ambitious%2C+the+better." alt="Stella's rotating introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1400&color=5EEAD4&center=true&vCenter=true&width=620&height=42&lines=I+like+making+things.;Sometimes+useful.+Sometimes+ridiculous.;Software%2C+systems%2C+and+ideas.;Let's+see+if+it+works." alt="Rotating introduction: I like making things; Sometimes useful, sometimes ridiculous; Software, systems, and ideas; Let's see if it works." />
 
-**Curiosity, side quests, and an unreasonable number of ideas.**
+**Software · Experiments · Products · Ventures**
 
 </div>
+
+## Hey, I'm Stella.
+
+I like making things. Sometimes useful, sometimes ridiculous, and sometimes just because the idea was too interesting to leave alone.
+
+I work on software, automation, interfaces, and whatever technical rabbit hole seems worth exploring. I also care about the other half of building: **figuring out whether something is actually useful, whether people want it, and how to turn it into a product.**
+
+Not every experiment needs to become a business. But I like knowing which ones *could*.
+
+> **Small clarification:** I'm a guy. Stella Runcandel is the name I use for this experimental, more business-minded side of my work.
+
+## What I'm interested in
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / Build
+
+- Software and developer tools
+- AI agents and automation
+- Interfaces and interactive experiences
+- Robotics and connected systems
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / Make it useful
+
+- Product ideas and validation
+- Prototypes that people can actually try
+- Better workflows and user experiences
+- Business models and early-stage ventures
+
+</td>
+</tr>
+</table>
+
+I also wander into biology, hardware, and other ambitious ideas. This account is where I give myself room to experiment.
+
+## Tools I reach for
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,html,css,java,c,rust&theme=dark" alt="Python, JavaScript, HTML, CSS, Java, C and Rust" />
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,react&theme=dark" alt="Git, GitHub, Linux, Bash, VS Code and React" />
+
+</div>
+
+<sub>The stack is flexible. The point is to make something that works.</sub>
+
+## Projects & experiments
+
+I use this space for prototypes, tools, and early product ideas. Some will be polished; some will be works in progress; some will probably get rebuilt from scratch.
+
+**What to expect:** software experiments, automation, creative tooling, intelligent systems, and the occasional idea that gets a little out of hand.
+
+[**Browse my repositories →**](https://github.com/Stella-Runcandel?tab=repositories)
+
+## How I approach things
+
+```text
+idea → prototype → test → rethink → improve → ship
+                  ↘ archive if it doesn't work
+```
+
+I'm more interested in making something genuinely useful than making it sound impressive. If an idea survives real testing, that's when things get interesting.
+
+## Get in touch
+
+Have a project idea, a problem worth solving, or something interesting to build?
+
+[**Start a conversation on GitHub →**](https://github.com/Stella-Runcandel)
 
 ---
 
-## 🪄 Hey, I'm Stella!
-
-I like making things. Sometimes useful, sometimes ridiculous, and sometimes just because I thought they'd be cool.
-
-I make software, tinker with ideas, and occasionally attempt projects that are way bigger than they have any right to be.
-
-Mostly here to build, experiment, break things, fix them, and see what happens.
-
-## 🧠 Current obsessions
-
-**AI · Robotics · Software · Biology · Ambitious ideas**
-
-Also interested in interfaces, automation, and turning strange ideas into things people can actually try.
-
-## 🛠️ The toolbox
-
 <div align="center">
-
-**Languages & web**
-
-<img src="https://skillicons.dev/icons?i=py,js,html,css,java,c,rust&theme=dark" alt="Python, JavaScript, HTML, CSS, Java, C, Rust" />
-
-**Building & experimenting**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,react,blender&theme=dark" alt="Git, GitHub, Linux, Bash, VS Code, React, Blender" />
-
-</div>
-
-## 💬 Say hello
-
-I like talking about interesting projects, creative technology, weird ideas, and things worth making.
-
-*Powered by curiosity and far too many side quests.*
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:6D28D9,100:120C24&height=115&section=footer" alt="" width="100%" />
-
+<sub>Make things. Find out what works. Keep going.</sub>
 </div>
