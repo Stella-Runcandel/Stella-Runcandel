@@ -48,4 +48,9 @@ I use this space for prototypes, tools, and early product ideas. Some will be po
 
 **What to expect:** software experiments, automation, creative tooling, intelligent systems, and the occasional idea that gets a little out of hand.
 
+**[ChameleonBG](https://github.com/Stella-Runcandel/Chameleon-BG-Extension)** — A free, open-source browser extension for custom website backgrounds with images, GIFs, and looping videos. Built at **Stella Labs**. [Install for Firefox](https://addons.mozilla.org/en-US/firefox/addon/chameleonbg-custom-backgrounds/).
+
 [**Browse my repositories →**](https://github.com/Stella-Runcandel?tab=repositories)
+
+**Follow along:** [X](https://x.com/StellaRuncandel) · [Project Becoming on YouTube](https://www.youtube.com/channel/UCrN6ocwodS_Mjl9n23L-t0g)  
+**Support Stella Labs:** [Patreon](https://www.patreon.com/cw/Stella_Labs) · [Ko-fi](https://ko-fi.com/stellalabs)
