@@ -1,4 +1,4 @@
-<img src="assets/profile-header.svg" alt="Stella Runcandel" width="100%" />
+<img src="assets/profile-header-green-lime.svg" alt="Stella Runcandel" width="100%" />
 
 ## Hey, I'm Stella.
 
