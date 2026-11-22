@@ -1,56 +1,29 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130B2B,45:4C1D95,100:7C3AED&height=190&section=header&text=Stella%20Runcandel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Build.%20Test.%20Ship.%20Repeat.&descSize=18&descAlignY=60" alt="Stella Runcandel profile banner" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1400&color=A78BFA&center=true&vCenter=true&width=620&height=42&lines=I+like+making+things.;Sometimes+useful.+Sometimes+ridiculous.;Software%2C+systems%2C+and+ideas.;Let's+see+if+it+works." alt="Animated introduction" />
-
-**Software · Experiments · Products · Ventures**
-
-</div>
+<img src="assets/profile-header.svg" alt="Stella Runcandel" width="100%" />
 
 ## Hey, I'm Stella.
 
-I like making things. Sometimes useful, sometimes ridiculous, and sometimes just because the idea was too interesting to leave alone.
+Most of what I put here is software. I'm working on some hardware projects too.
 
-I work on software, automation, interfaces, and whatever technical rabbit hole seems worth exploring. I also care about the other half of building: **figuring out whether something is actually useful, whether people want it, and how to turn it into a product.**
+My interests include AI, robotics, quantum tech, hardware, and biology. I'm building **[Stella Labs](https://www.patreon.com/cw/Stella_Labs)**, and part of that is figuring out how to turn some of my projects into a business.
 
-Not every experiment needs to become a business. But I like knowing which ones *could*.
+*I'm a guy. Stella Runcandel is the name I use for this side of my work.*
 
-> **Small clarification:** I'm a guy. Stella Runcandel is the name I use for this experimental, more business-minded side of my work.
+## Projects
 
-## What I'm interested in
+### [ChameleonBG](https://github.com/Stella-Runcandel/Chameleon-BG-Extension)
 
-### Build
+A free, open-source Firefox extension for website backgrounds using images, GIFs, and looping videos.
 
-Software and developer tools · AI agents and automation · Interfaces and interactive experiences · Robotics and connected systems
+By **[Stella Labs](https://www.patreon.com/cw/Stella_Labs)** · [Install for Firefox](https://addons.mozilla.org/en-US/firefox/addon/chameleonbg-custom-backgrounds/) · [Source code](https://github.com/Stella-Runcandel/Chameleon-BG-Extension)
 
-### Make it useful
+[Browse my repositories →](https://github.com/Stella-Runcandel?tab=repositories)
 
-Product ideas and validation · Prototypes people can actually try · Better workflows and user experiences · Business models and early-stage ventures
+## Tools I use
 
-I also wander into biology, hardware, and other ambitious ideas. This account is where I give myself room to experiment.
+Python, JavaScript, HTML/CSS, Java, C, Rust, React, Git, GitHub, Linux, Bash, and VS Code.
 
-## Tools I reach for
+## Links
 
-<div align="center">
+**Follow along:** [X](https://x.com/StellaRuncandel) · [Project Becoming on YouTube](https://www.youtube.com/@ProjectBecomingYT)
 
-<img src="https://skillicons.dev/icons?i=py,js,html,css,java,c,rust&theme=dark" alt="Python, JavaScript, HTML, CSS, Java, C and Rust" />
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,react&theme=dark" alt="Git, GitHub, Linux, Bash, VS Code and React" />
-
-</div>
-
-<sub>The stack is flexible. The point is to make something that works.</sub>
-
-## Projects & experiments
-
-I use this space for prototypes, tools, and early product ideas. Some will be polished; some will be works in progress; some will probably get rebuilt from scratch.
-
-**What to expect:** software experiments, automation, creative tooling, intelligent systems, and the occasional idea that gets a little out of hand.
-
-**[ChameleonBG](https://github.com/Stella-Runcandel/Chameleon-BG-Extension)** — A free, open-source browser extension for custom website backgrounds with images, GIFs, and looping videos. Built at **Stella Labs**. [Install for Firefox](https://addons.mozilla.org/en-US/firefox/addon/chameleonbg-custom-backgrounds/).
-
-[**Browse my repositories →**](https://github.com/Stella-Runcandel?tab=repositories)
-
-**Follow along:** [X](https://x.com/StellaRuncandel) · [Project Becoming on YouTube](https://www.youtube.com/channel/UCrN6ocwodS_Mjl9n23L-t0g)  
 **Support Stella Labs:** [Patreon](https://www.patreon.com/cw/Stella_Labs) · [Ko-fi](https://ko-fi.com/stellalabs)
